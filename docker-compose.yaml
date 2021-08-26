@@ -6,7 +6,7 @@ services:
     command: pytest tests.py
   web:
     build: .
-    command: python main.py
+    command: python3 main.py
     volumes:
       - .:/code
     ports:
