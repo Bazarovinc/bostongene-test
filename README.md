@@ -7,6 +7,7 @@ To start service run next commands:
 >docker-compose up
 ```
 Last command will run tests and wev-service
+
 If you want to run appart:
 ```
 >docker-compose up tests
