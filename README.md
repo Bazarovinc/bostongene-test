@@ -13,7 +13,7 @@ If you want to run appart:
 >docker-compose up tests
 ```
 ```
->docker-compose web
+>docker-compose up web
 ```
 # Docs
 If you want to check service documentation, write in browser search line `http://0.0.0.0:8000/docs`
